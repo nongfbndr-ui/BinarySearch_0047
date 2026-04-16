@@ -51,7 +51,7 @@ void BubbleSortArray()
     } while (pass <= nPanjang - 1);
 }
 
-void display()
+ void divsplay()
 {
     cout << "\n====================================\n";
     cout << " Elemen Array Setelah Diurutkan (asc) \n";
